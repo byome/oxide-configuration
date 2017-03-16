@@ -1,0 +1,20 @@
+{
+  "ClanLimits": {
+    "Maximum_ClanAlliances": 2,
+    "Maximum_Moderators": 2,
+    "Maximum_TotalMembers": 8
+  },
+  "Messaging": {
+    "ClanChat": "#AFFF00",
+    "Main": "#FFBB00",
+    "MSG": "#939393"
+  },
+  "Options": {
+    "ClanTagColor": "#orange",
+    "SaveTimer": 600,
+    "ShowJoinMessage": true,
+    "ShowLeaveMessage": true,
+    "TagLengthMaximum": 6,
+    "TagLengthMinimum": 2
+  }
+}

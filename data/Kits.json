@@ -1,0 +1,154 @@
+{
+  "Kits": {
+    "basic": {
+      "name": "basic",
+      "description": "Basic kit",
+      "max": 3,
+      "cooldown": 3600.0,
+      "authlevel": 0,
+      "hide": false,
+      "npconly": false,
+      "permission": null,
+      "image": null,
+      "building": null,
+      "items": [
+        {
+          "itemid": 523855532,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": 3655341,
+          "container": "main",
+          "amount": 10000,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -892070738,
+          "container": "main",
+          "amount": 10000,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": 688032252,
+          "container": "main",
+          "amount": 500,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -2104481870,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -975723312,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": 1257201758,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": 271534758,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -420273765,
+          "container": "main",
+          "amount": 25,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": 1253290621,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -2043730634,
+          "container": "main",
+          "amount": 20,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": 1685058759,
+          "container": "main",
+          "amount": 10,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": 698310895,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -578028723,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -1224598842,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -307490664,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -853695669,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": true,
+          "mods": []
+        }
+      ]
+    }
+  }
+}
